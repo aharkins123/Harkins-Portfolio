@@ -7,5 +7,3 @@ In my spare time I enjoy playing soccer, rock climbing, reading books/news, and 
 # What I Hope to Learn
 
 # Portfolio
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/7642577"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
