@@ -13,6 +13,11 @@ I feel like the MSPPM core classes helped me a more responsible reader and inter
 
 ## [Assignment Two](https://aharkins123.github.io/Assignment-Two/)
 
+### Part Two - Grid of Line Charts
+
+Displayed here is a grid of line charts for the debt-to-GDP ratio for 47 countries. The y-axis details the debt-to-GDP ratio (as a percent) and the x-axis depicts the year, ranging from 1995 to 2020. Viewers might take note of the rapidly increasing ratios for countries such as Japan and Greece. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7690930"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Final Project Part One
 
 ## Final Project Part Two
