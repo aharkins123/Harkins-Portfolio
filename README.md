@@ -11,14 +11,18 @@ I feel like the MSPPM core classes helped me a more responsible reader and inter
 
 # Portfolio
 
-## [Assignment Two](https://aharkins123.github.io/Assignment-Two/)
+## [Assignment Two]
+
+### Part One
+
+<iframe src="https://data.oecd.org/chart/6vsN" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</iframe>
 
 ### Part Two - Grid of Line Charts
 
 Displayed here is a grid of line charts for the debt-to-GDP ratio for 47 countries. The y-axis details the debt-to-GDP ratio (as a percent) and the x-axis depicts the year, ranging from 1995 to 2020. Viewers might take note of the rapidly increasing ratios for countries such as Japan and Greece. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7690930"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Part Two - Own Visualization
+### Part Two - Own Visualization
 
 Displayed below is a scatterplot of each country's debt-to-GDP ratio from 1995 to 2020. 
 
