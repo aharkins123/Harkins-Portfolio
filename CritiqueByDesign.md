@@ -80,5 +80,3 @@ After wireframing and gathering feedback, I understood that I wanted to strike a
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7777467"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Back to Main Portfolio](Harkins-Portfolio.md)
-
