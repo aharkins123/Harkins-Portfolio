@@ -32,7 +32,7 @@ This method of visualization, compared to the first grid of line charts, gives a
 
 While this scatter plot visualization loses some of the specificity provided by the first visualization, I included an interactive filter that allows users to select a specific country to display. This way, viewers who are still interested in finding details about a specific country's debt-to-ratio can do so. While Flourish automatically adjusts axes for these filtered scatterplots, I opted to not allow the y-axis to shift depending on the country being viewed. This allows the viewer to filter by country but still have a solid understanding of where that country's debt-to-gdp ratio falls relative to all other countries in the dataset.
 
-## [Assignments 3 and 4](CritiquebyDesign.html)
+## [Assignments 3 and 4](CritiqueByDesign.html)
 
 ## Final Project Part One
 
