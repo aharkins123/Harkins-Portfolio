@@ -16,3 +16,9 @@ For my critique, I tried to take note of my initial impressions and examine how 
 
 When I was wireframing, I initially thought about completely re-visualizing the way this information was displayed. I began creating an area chart, in the hopes of more strongly visually emphasizing the overwhelming support for taxing the wealthy to pay for the infrastructure bill. Unfortunately, the area chart seemed to be a poor fit for this type of data. The lines erroneously suggested that there was some sort of time element involved, even though there is no passage of time with this data.
 
+[Wireframing](C:\Users\ahark\OneDrive\Documents\Fall 2021 Semester\Telling Stories with Data\Wireframing)
+
+### Step Four - Feedback
+
+### Step Five - Final Visualization
+
