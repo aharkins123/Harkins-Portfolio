@@ -14,11 +14,11 @@ For my critique, I tried to take note of my initial impressions and examine how 
 
 ### Step Three - Wireframing
 
-When I was wireframing, I initially thought about completely re-visualizing the way this information was displayed. I began creating an area chart, in the hopes of more strongly visually emphasizing the overwhelming support for taxing the wealthy to pay for the infrastructure bill. Unfortunately, the area chart seemed to be a poor fit for this type of data. The lines erroneously suggested that there was some sort of time element involved, even though there is no passage of time with this data.
-
-[Wireframing](C:\Users\ahark\OneDrive\Documents\Fall 2021 Semester\Telling Stories with Data\Wireframing)
+When I was wireframing, I initially thought about completely re-visualizing the way this information was displayed. I began creating an area chart, in the hopes of more strongly visually emphasizing the overwhelming support for taxing the wealthy to pay for the infrastructure bill. Unfortunately, the area chart seemed to be a poor fit for this type of data. The lines erroneously suggested that there was some sort of time element involved, even though there is no passage of time with this data. I then moved back towards the format of the original visualization, but focused on stripping away excess text and color to simplify the visual while maintaining the clarity of the message. In my second sketch (bottom left), I found that the amount of color was still distracting and the overall message wasn't immediately discernible. I then moved to a third iteration in the top right, where I settled on only including shading for support or opposition to each measure. I also removed two of the survey questions that seemed less directly related to taxation of the wealthy and corporations. 
 
 ### Step Four - Feedback
 
 ### Step Five - Final Visualization
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7777467"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
