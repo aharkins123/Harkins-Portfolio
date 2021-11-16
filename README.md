@@ -34,6 +34,4 @@ While this scatter plot visualization loses some of the specificity provided by 
 
 ## [Assignments 3 and 4](CritiqueByDesign.html)
 
-## Final Project Part One
-
-## Final Project Part Two
+## [Final Project](Final_Project_AlecHarkins.html)
