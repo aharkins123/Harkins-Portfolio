@@ -40,6 +40,12 @@ As for the steps to project completion, the first step will be examining the dat
 
 After the feedback sessions, I will rework my final visualizations and story progression. If reviewers identify any missing information that seems absolutely crucial to the story, I may review my data sources to see how best that piece of the story can be told. 
 
+## Storyboard
+
+I decided to storyboard my final project in Shorthand to get some early practice with the different features. I definitely need to experiment more with different options (scrollmations, column placement etc.) for the final product, but this layout gives a general indication of my story progression. I also think I need to demarcate clearer sections, because at the moment it feels like one long blob of text/visualizations rather than a story with unique sections.
+
+https://carnegiemellon.shorthandstories.com/AlecHarkins_FinalProject/index.html
+
 ## User Research Protocol
 
 #### Target Audience
@@ -105,4 +111,21 @@ The main takeaways from my interviews are as follows. First, users seem to grasp
 6. I'd like to see a dot chart of representatives receiving NRA contributions -- I'm sure there's a partisan divide, but I'd love to see what that actually looks like proportionally with each individual represented as a point. 
 
 **Interviewee 3:** 
+
+1. Generally, like it. Feels like a webpage. Like the racing graph, big fan of that. The penny to gun, bullet thing caught my eye, I don’t know if that’s what you want. 
+Also like the tides graph but could be smaller. 
+
+2. It feels like some version of liberal gun control information. More informational, mostly just anti-NRA. Finish on an NRA note and not how much gun control vs. gun rights. 
+
+3. Left-leaning individuals interested in gun control and political spending.
+
+4. That thing in the middle, the big bar countdown. The color on the pie chart felt a little out of place. If the ticker had a bigger bar on the top and bottom it would probably be more eye-catching. Once someone sees it, it fades in or out so you can see the countdown at all times. Like the color scheme, black and red works pretty well, teal for control stands out against background. Matches the sign on the title slide. Purposefully didn’t look at gray. 
+
+5.
+•	Add title to bar graph
+•	Something about this last section doesn’t jive for me. Like the black background for the pie chart.
+•	What if the tide chart was half the size, could probably put that next to the bar chart, have a slider that show contributions per year to representative
+
+6. No comments
+
 
