@@ -42,7 +42,7 @@ As for the steps to project completion, the first step will be examining the dat
 
 After the feedback sessions, I will rework my final visualizations and story progression. If reviewers identify any missing information that seems absolutely crucial to the story, I may review my data sources to see how best that piece of the story can be told. 
 
-Check out Parts II and III!
+## Check out Parts II and III
 
 ##### [Part II](FinalProjectPartII.html)
 
