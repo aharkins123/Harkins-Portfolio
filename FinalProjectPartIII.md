@@ -1,6 +1,6 @@
 # Part III
 
-### [Data Story](https://carnegiemellon.shorthandstories.com/guns-and-money/index.html)
+## [Final Data Story](https://carnegiemellon.shorthandstories.com/guns-and-money/index.html)
 
 ### Reflection
 
