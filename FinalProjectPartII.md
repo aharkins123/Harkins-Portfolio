@@ -87,3 +87,11 @@ Also like the tides graph but could be smaller.
 •	What if the tide chart was half the size, could probably put that next to the bar chart, have a slider that show contributions per year to representative
 
 6. No comments
+
+Check out Parts I and III!
+
+##### [Part I](FinalProjectPartI.html)
+
+##### [Part III](FinalProjectPartIII.html)
+
+
