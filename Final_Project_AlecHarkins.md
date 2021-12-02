@@ -4,8 +4,8 @@
 
 #### [Part I](FinalProjectPartI.html)
 
-#### [Part II](FinalProjectPartI.html)
+#### [Part II](FinalProjectPartII.html)
 
-##### [Part III](FinalProjectPartI.html)
+##### [Part III](FinalProjectPartIII.html)
 
 
