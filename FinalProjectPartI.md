@@ -44,8 +44,8 @@ After the feedback sessions, I will rework my final visualizations and story pro
 
 Check out Parts II and III!
 
-#### [Part II](FinalProjectPartI.html)
+##### [Part II](FinalProjectPartII.html)
 
-##### [Part III](FinalProjectPartI.html)
+##### [Part III](FinalProjectPartIII.html)
 
 
