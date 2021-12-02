@@ -20,7 +20,7 @@ I also simplified my presentation in terms of design. Originally, I was using se
 
 Finally, I gathered one last round of feedback from a friend on my final presentation. Based on this feedback, I included a “hook” where I begin by stating that America is an “exceptional” nation, but quickly turn that concept on its head by stating that America is exceptionally violent compared to other countries. 
 
-Check out Parts I and II!
+## Check out Parts I and II!
 
 ##### [Part I](FinalProjectPartI.html)
 
