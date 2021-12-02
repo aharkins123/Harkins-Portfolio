@@ -88,7 +88,7 @@ Also like the tides graph but could be smaller.
 
 6. No comments
 
-Check out Parts I and III!
+## Check out Parts I and III
 
 ##### [Part I](FinalProjectPartI.html)
 
