@@ -41,3 +41,11 @@ I am unsure yet which medium would be best for presenting this information. I ha
 As for the steps to project completion, the first step will be examining the data I have more closely and identifying potential visual styles for presenting that data. I want my message to be clear, so my sketches here are all in fairly simple visual form - however, the data is more complicated than what I have presented here. I may explore if there is a room for a less common visual that provides greater detail, such as a racing bar graph that depicts NRA contributions relative to other organizations year over year. After examining the data more closely, I will finalize my sketches. From there, I will need to explore sites like Unsplash and Flickr Creative Commons to identify visuals that may reinforce my storytelling. I probably want to draw a balance between using evocative imagery without showing anything overtly violent or triggering. Finally, I plan to workshop my final project with at least a few friends to ascertain where my story falls flat. I will create a script similar to the script used in Assignments 3 and 4, with questions such as: "Is there anything you want to know that isn't answered here?" and "What part of the story did you find most compelling? Least compelling?". 
 
 After the feedback sessions, I will rework my final visualizations and story progression. If reviewers identify any missing information that seems absolutely crucial to the story, I may review my data sources to see how best that piece of the story can be told. 
+
+Check out Parts II and III!
+
+#### [Part II](FinalProjectPartI.html)
+
+##### [Part III](FinalProjectPartI.html)
+
+
